@@ -1,20 +1,4 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @SaiManideep
- Watch 2
-  Star 1
-  Fork 83,148 sefakilic/coursera-rprog-assignment2
-forked from rdpeng/ProgrammingAssignment2
- Code  Pull requests 0  Pulse  Graphs
-Branch: master Find file Copy pathcoursera-rprog-assignment2/cachematrix.R
-5dedb2e  on Apr 27, 2014
-@sefakilic sefakilic solution added
-2 contributors @rdpeng @sefakilic
-RawBlameHistory     62 lines (54 sloc)  1.73 KB
+
 # Matrix inversion is usually a costly computation and there may be some benefit
 # to caching the inverse of a matrix rather than compute it repeatedly. The
 # following two functions are used to cache the inverse of a matrix.
@@ -76,5 +60,3 @@ cacheSolve <- function(x, ...) {
 ## [1,] 1.0666667 0.2666667
 ## [2,] 0.2666667 1.0666667
 ## > 
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
